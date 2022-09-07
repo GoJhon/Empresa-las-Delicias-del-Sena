@@ -1,10 +1,11 @@
-# Empresa-las-Delicias-del-Sena
-Markdown con descripción de los productos de la cafetería SENA
+<h2 align=center>Empresa las Delicias del Sena</h2>
 
-Bienvenidos a Delicias SENA! Donde la comida se goza
+<p align="center"><img src="https://i.imgur.com/cV7Bd7l.jpg" alt="Banner centrado" /></p>
 
-[1. Descripción](/descripcion/README.md)
+<p align=center><b>Bienvenidos a Delicias SENA! Donde la comida se goza</b></p>
 
-[2. Catalogo](/catalogo/README.md)
+  - [Descripción](/descripcion/README.md) :speech_balloon:
 
-[3. Contacto](/contacto/README.md)
+  - [Catalogo](/catalogo/README.md) :hamburger:
+
+  - [Contacto](/contacto/README.md) :phone: 
